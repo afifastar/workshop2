@@ -1,6 +1,6 @@
 # workshop2
 
-Assignment Instructions
+## **Assignment Instructions**
 
 Create a public repository called workshop using your own account in Github. Make sure to choose to have a README.md file, and then perform the following actions:
 
@@ -30,7 +30,7 @@ If you want, you can invite me into your repo. My github account is: junlianxian
 
 
 
-Rubrics
+## **Rubrics**
 
 - Adding the file to the repo: 1.0 marks
 
